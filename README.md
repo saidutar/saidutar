@@ -1,41 +1,39 @@
-<h1>Hi, I'm Saidutar </h1>
+# 🛡️ Active Directory Home Lab 🏠
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Welcome to my **Active Directory Home Lab**! This repository serves as a platform to document and showcase my cybersecurity projects and experiments conducted in my home lab environment.
 
-- <h2>Active Directory Home Lab<h2>
-  <h2>Helllo World Project<h2>
-  <h2>Certifications</h2>
-<h2>📺 Popular YouTube Videos</h2>
+## Overview
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+In this home lab setup, I've focused on creating a practical and hands-on learning environment for cybersecurity exploration, specifically centered around Active Directory:
 
-<h2> 🤳 Connect with me:</h2>
+### 1. Kali Linux Setup
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **Description**: Dive into the world of ethical hacking and penetration testing with my Kali Linux operating system setup.
+- **Features**:
+  - Basic setup and configuration of Kali Linux.
+  - Familiarization with essential Linux commands and navigation.
+  - Exploration of the Kali Linux environment as a platform for cybersecurity learning.
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 2. OWASP Broken App Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Description**: Explore vulnerabilities in real-world web applications provided by the OWASP Broken App projects.
+- **Features**:
+  - Setup and configuration of OWASP Broken App projects.
+  - Familiarization with basic usage and navigation within the projects.
+  - Exposure to common security flaws such as SQL injection, cross-site scripting (XSS), and insecure authentication mechanisms.
 
-Here are some ideas to get you started:
+## Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Introduction to Cybersecurity - Cisco
+
+- **Issuing Organization**: Cisco
+- **Completion Date**: [Month, Year]
+- **Certificate Link**: [Certificate Link]
+
+## Getting Started
+
+To get started with my **Active Directory Home Lab** and explore the projects within this repository:
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/saidutar/Active-Directory-HomeLab.git
